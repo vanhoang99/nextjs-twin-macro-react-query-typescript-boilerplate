@@ -6,7 +6,7 @@ Feel free to `clone` it and `try` how it works:
 
 ```bash
 # clone the repo:
-git clone https://github.com/redbaron76/nextjs-twin-macro-react-query-boilerplate <your-app-name>
+git clone https://github.com/vanhoang99/nextjs-twin-macro-react-query-typescript-boilerplate <your-app-name>
 
 # install dependencies
 cd <your-app-name> && yarn install
